@@ -1,0 +1,12 @@
+dependancy install commands:
+
+  npm install express
+
+  npm install cors
+
+  npm install body-parser
+
+to run:
+
+  npm start
+  (in root directory containing index.js)
